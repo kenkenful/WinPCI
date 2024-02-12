@@ -1,0 +1,3 @@
+devcon.exe install WINPCI.inf "PCI\VEN_14A4&DEV_21F1"
+devcon.exe remove "PCI\VEN_14A4&DEV_21F1"
+devcon.exe dp_delete oem44.inf

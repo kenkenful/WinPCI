@@ -1,0 +1,12 @@
+﻿  Building 'WINPCI' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\WINPCI.inf
+  Stamping [Version] section with DriverVer=02/10/2024,17.17.10.279
+  hw_init.c
+  hw_req.c
+  isrdpc.c
+  PCIDRV.C
+  POWER.C
+  コードを生成中...
+PCIDRV.obj : error LNK2019: 未解決の外部シンボル _RtlStringValidateDestA@12 が関数 _RtlStringCbVPrintfA@16 で参照されました
+PCIDRV.obj : error LNK2019: 未解決の外部シンボル _RtlStringVPrintfWorkerA@20 が関数 _RtlStringCbVPrintfA@16 で参照されました
+C:\Users\kenichirou\source\repos\WINPCI\Debug\WINPCI.sys : fatal error LNK1120: 2 件の未解決の外部参照

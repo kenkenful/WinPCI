@@ -1,0 +1,28 @@
+﻿  Building 'WINPCI' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\WINPCI.inf
+  Stamping [Version] section with DriverVer=02/12/2024,9.1.24.904
+  hw_init.c
+  hw_req.c
+  isrdpc.c
+  PCIDRV.C
+  POWER.C
+  コードを生成中...
+  WINPCI.vcxproj -> C:\Users\kenichirou\source\repos\WINPCI\x64\Debug\WINPCI.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\kenichirou\source\repos\WINPCI\x64\Debug\WINPCI.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\kenichirou\source\repos\WINPCI\x64\Debug\WINPCI\winpci.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\kenichirou\source\repos\WINPCI\x64\Debug\WINPCI\winpci.cat
+  
